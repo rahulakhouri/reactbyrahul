@@ -1,7 +1,5 @@
-This is the 2nd session of HTML.
+This is the 3rd session of HTML.
 
-We will cover basic form elements:
+We will cover following form element:
 
-1. Form tag
-2. Text Box
-3. Button
+1. Select tag
